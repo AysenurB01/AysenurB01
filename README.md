@@ -18,4 +18,4 @@ I am committed to continuous learning and improving my testing skills.
 ---
 
 ## 🌱 Currently Learning
-- Python for test automation and AI fundamentals
+- Python and AI fundamentals
