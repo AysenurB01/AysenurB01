@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👩‍💻 About Me
+Hi 👋 I'm Ayşenur,
 
-<!--
-**AysenurB01/AysenurB01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a QA Tester with hands-on experience in manual and automation testing.
+I am committed to continuous learning and improving my testing skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Manual Testing (Functional, UI, Regression)
+- Automation Testing: Cypress (beginner–intermediate)
+- API Testing: Postman
+- Test Management: Jira, TestRail
+- Agile / Scrum
+- Basic SQL
+- Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+- Python for test automation and AI fundamentals
