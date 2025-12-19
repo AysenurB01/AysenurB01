@@ -8,7 +8,7 @@ I am committed to continuous learning and improving my testing skills.
 
 ## 🛠 Tech Stack
 - Manual Testing (Functional, UI, Regression)
-- Automation Testing: Cypress (beginner–intermediate)
+- Automation Testing: Cypress
 - API Testing: Postman
 - Test Management: Jira, TestRail
 - Agile / Scrum
