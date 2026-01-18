@@ -8,18 +8,17 @@ I am committed to continuous learning and improving my testing skills.
 
 🛠 Tech Stack
 
-- Manual Testing: Functional, UI, Regression, Smoke, Exploratory
+- Automation Testing: Cypress, Pytest
+- Testing Types: Functional, Regression, Smoke, Exploratory, End-to-End (E2E)
 - API Testing: Postman
-- Automation Testing: Cypress
-- IDE: PyCharm
-- Programming Languages: JavaScript, Python (basic)
-- Test Frameworks: Page Object Model (POM) (basic)
-- Programming Principles: OOP (basic)
-- Test Management: Jira, TestRail
-- Database & Query: SQL (basic)
+- Programming Languages: JavaScript, Python
+- Methodologies: Agile, Scrum
+- Test Management: Jira, TestRail, Trello
+- Design Patterns: Page Object Model (POM)
+- Programming Principles: OOP (Object-Oriented Programming), Clean Code
+- Database & Query: SQL
 - Database Tools: DBeaver
-- Version Control: Git & GitHub
-- Methodology: Agile / Scrum
+- Tools & IDE: Git, GitHub, PyCharm
 
 ---
 
