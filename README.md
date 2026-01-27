@@ -22,5 +22,7 @@ I am committed to continuous learning and improving my testing skills.
 
 ---
 
-## 🌱 Currently Learning
-- Python and AI fundamentals
+##🌱 Currently Learning
+• Advanced Python with Artificial Intelligence (Level 102)
+• AI Testing: applying AI-driven approaches to software quality assurance
+
